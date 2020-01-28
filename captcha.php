@@ -9,7 +9,7 @@
 
 		$img = imagecreate(100, 30);
 
-		$font  = 'fonts/police(';
+		$font  = 'fonts/font (';
 		$font .= $font_number;
 		$font .= ').ttf';
 
